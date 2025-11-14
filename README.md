@@ -1,4 +1,4 @@
-#ResolveNow
+ResolveNow
 
 Your Platform for Online Complaints
 Built with the MERN stack to simplify how users register, track and manage complaints — with transparency, efficiency and ease.
